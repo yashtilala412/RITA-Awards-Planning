@@ -1,0 +1,1 @@
+SELECT answer FROM answer WHERE ques_id = {{variables.q_id}}

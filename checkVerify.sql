@@ -1,0 +1,1 @@
+update company_user set status = 'verified'  where id = '{{variables.companyId}}';

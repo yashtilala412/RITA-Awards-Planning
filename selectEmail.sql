@@ -1,0 +1,1 @@
+SELECT gmail FROM login_data WHERE id = {{variables.login_id}};

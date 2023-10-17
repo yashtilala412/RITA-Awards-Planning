@@ -1,0 +1,1 @@
+UPDATE answer SET confiramation=1 WHERE login_id = {{variables.login_id}} AND award_name = '{{variables.awardName}}';

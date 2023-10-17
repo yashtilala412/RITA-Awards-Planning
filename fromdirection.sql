@@ -1,0 +1,1 @@
+SELECT * FROM company_user WHERE login_id = (SELECT id FROM login_data WHERE gmail='{{variables.login_email}}');

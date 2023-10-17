@@ -1,0 +1,1 @@
+UPDATE answer SET answer = '{{variables.answe}}' WHERE ques_id = {{variables.q_id}} AND login_id = {{variables.login_id}}

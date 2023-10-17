@@ -1,0 +1,1 @@
+SELECT question_id,award_name,question,minimum_character FROM awards WHERE award_name = '{{variables.award}}';

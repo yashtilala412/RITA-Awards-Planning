@@ -1,0 +1,1 @@
+SELECT * FROM login_data WHERE gmail='{{variables.login_email}}' AND password = '{{variables.login_password}}';

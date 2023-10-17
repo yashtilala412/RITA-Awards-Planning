@@ -1,0 +1,2 @@
+INSERT INTO company_user (company_name, owner_name, owner_mob, company_address, email_address, company_type, applied_awards, company_web, founding_year, company_strength, company_proof,finalstatus,status,login_id,url,date_created,date_updated)
+VALUES ('Arjun\s company1','Arjun1 ','5874896585','\padavala','arjun@gmail.com','Corporation','Best Service Provider - Website Design & Development','www.gmail.com',2020 , '200', 'GST','pending','pending',2,'upload-stage/2/Arjun's company/image.png',now(),now());

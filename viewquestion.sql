@@ -1,0 +1,1 @@
+select question_id,award_name,REPLACE( question,E'\\', '''') as "question",minimum_character from awards order by award_name;

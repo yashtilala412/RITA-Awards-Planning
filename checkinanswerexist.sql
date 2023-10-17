@@ -1,0 +1,1 @@
+SELECT login_id FROM answer WHERE login_id  = {{variables.login_id}} AND award_name = '{{variables.award}}' ;

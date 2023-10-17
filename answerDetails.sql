@@ -1,0 +1,1 @@
+SELECT award_name,REPLACE( question,E'\\', '''') AS "question", REPLACE( answer,E'\\', '''') AS "answer"  FROM answer WHERE company_id = {{variables.answerData}} order by award_name;
