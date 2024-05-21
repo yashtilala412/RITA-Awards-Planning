@@ -47,3 +47,8 @@ This project is used by RITA( Rajkot Information Technology Association ) :is  a
 - **PostgreSQL**: As the relational database management system to store and manage data.
 - **AWS S3**: For secure storage of company documents.
 - **Tooljet**: For building and deploying the web application.
+
+## Demo
+
+https://youtu.be/fkJyzdIikTc?si=XsFBDy-sQtfK6H3G
+
