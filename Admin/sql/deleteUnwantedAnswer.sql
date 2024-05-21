@@ -1,0 +1,1 @@
+DELETE FROM answer WHERE confiramation=0 AND login_id = {{variables.login_id}} ;

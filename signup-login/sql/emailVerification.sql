@@ -1,0 +1,1 @@
+UPDATE login_data SET is_verified = 1 WHERE randomstring = '{{variables.userString}}';

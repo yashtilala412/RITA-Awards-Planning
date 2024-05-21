@@ -1,0 +1,1 @@
+SELECT  answer FROM answer WHERE login_id = {{variables.login_id}} AND ques_id = {{variables.que_id}} ;

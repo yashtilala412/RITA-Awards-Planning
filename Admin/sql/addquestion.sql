@@ -1,0 +1,1 @@
+INSERT INTO awards(award_name,question,minimum_character) VALUES('{{variables.selected_award}}','{{variables.question_name}}',{{variables.charlen}});
